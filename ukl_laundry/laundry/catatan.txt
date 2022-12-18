@@ -1,0 +1,3 @@
+MINUS
+-   Seharunya orderan yang keluar sesuai oultlet
+-   Profile belum fix

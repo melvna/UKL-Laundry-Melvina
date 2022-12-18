@@ -1,0 +1,14 @@
+.proses button{
+    border-radius: 50px;
+    background-color: red;
+}
+
+.selesai button{
+    border-radius: 50px;
+    background-color: yellow;
+}
+
+.ambil button{
+    border-radius: 50px;
+    background-color: green;
+}
